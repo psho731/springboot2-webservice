@@ -5,5 +5,6 @@
 - language: Java 8
 - Gradle: 4.10.2
 - Spring Boot: 2.1.9.RELEASE
-- DB: mariaDB
+- SERVER: AWS EC2
+- DB: AWS RDS mariaDB
 - IDE: IntelliJ
