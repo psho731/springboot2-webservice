@@ -8,6 +8,7 @@
 - SERVER: AWS EC2
 - DB: AWS RDS mariaDB
 - IDE: IntelliJ
+- JPA
 
 ## 24시간 작동 가능
 AWS를 사용하여 24시간 서비스 가능
