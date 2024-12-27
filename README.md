@@ -8,3 +8,4 @@
 - SERVER: AWS EC2
 - DB: AWS RDS mariaDB
 - IDE: IntelliJ
+- Travis CI 배포 자동화
